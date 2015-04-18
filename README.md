@@ -1,2 +1,1 @@
-# Saleh
-Semantic Web repository 
+#Semantic Web repository 
